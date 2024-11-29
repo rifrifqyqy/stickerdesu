@@ -6,4 +6,5 @@ sticker dump for tech
   <img src="mongodb.png" style="height: 100px"/>
   <img src="railskawai.png" style="height: 100px"/>
   <img src="remixkawai.png" style="height: 100px"/>
+  <img src="sveltekawai.png" style="height: 100px"/>
 </div>
